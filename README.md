@@ -1,6 +1,5 @@
 # File Encryption Using Fernet in Python
 
-![Encryption](link_to_image)
 
 ## Overview
 
@@ -33,4 +32,4 @@ It is essential to understand that this code showcases a legitimate encryption t
 Please ensure responsible usage of this code, with explicit consent when encrypting files owned by others.
 
 # Decryption
-Kindly check decrpyt.py to decrpyt the files and makes sure you generates key everytime you encrpyt the files otherwise ypu'll lose your data forever.
+Kindly check decrpyt.py to decrpyt the files and makes sure you generates key everytime you encrpyt the files otherwise you'll lose your data forever.
